@@ -1,0 +1,27 @@
+_repo: The-History-of-Margaret-CatchpoleA-Suffolk-Girl_39326
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobbold, Richard
+    birthdate: 1797
+    deathdate: 1877
+    gutenberg_agent_id: '39966'
+    url: http://www.gutenberg.org/2009/agents/39966
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Cobbold
+description: ''
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Catchpole, Margaret, 1762-1819 -- Fiction'
+title: The History of Margaret Catchpole, a Suffolk Girl
+url: http://www.gutenberg.org/ebooks/39326
