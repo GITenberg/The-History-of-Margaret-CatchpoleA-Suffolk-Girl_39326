@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39966
     wikipedia: http://en.wikipedia.org/wiki/Richard_Cobbold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39326#The-History-of-Margaret-CatchpoleA-Suffolk-Girl
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
 identifiers:
